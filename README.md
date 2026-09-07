@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-  <title>Mi web</title>
+<title>Mi web</title>
 </head>
 
 <body>
